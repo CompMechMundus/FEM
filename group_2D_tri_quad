@@ -1,0 +1,8 @@
+*Nset, nset=inlet
+  1, 14, 75, 76, 77, 78, 79, 80
+*Elset, elset=inlet
+  74,  78, 201, 203, 204, 206, 327
+*Nset, nset=outlet, generate
+  4,  12,   1
+*Elset, elset=outlet
+   7,  79,  80,  81,  82,  84,  86, 211
